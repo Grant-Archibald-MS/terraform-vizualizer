@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Terraform Vizulaizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sample react based project created to demonstrate the ability to vizualize the json file produced as a result of running `terraform show -json`
 
 ## Available Scripts
 
