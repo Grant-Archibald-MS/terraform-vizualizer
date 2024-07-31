@@ -1,4 +1,4 @@
-# Terraform Vizulaizer
+# Terraform Vizualzer
 
 Sample react based project created to demonstrate the ability to vizualize the json file produced as a result of running `terraform show -json`
 
